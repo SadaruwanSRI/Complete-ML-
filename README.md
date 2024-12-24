@@ -2,7 +2,9 @@
 
 Welcome to the **Machine Learning Algorithm Templates** repository!  
 This repo provides ready-to-use templates for the most popular and useful ML algorithms. Each template includes clear descriptions, implementation steps, and example code.  
-
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BjcThnMTl4NHQ4ZDd4NjBzeHZiYWI2YW83cjJ1ZTlnczJ4YWduMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gutZ5Pm6Xl62eIf5RZ/giphy.gif" alt="Certificate Animation" width="400"/>
+</div>
 ---
 
 ## 🌟 **Repository Highlights**
